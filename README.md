@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**HarshataGarg/HarshataGarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Hi there, I'm @kunalgupta9 -->
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Harshata Garg. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓  B.Tech CSE | 3rd Year Student  
+🔍 Passionate about Data Science, Machine Learning, and Problem Solving.  
+🚀 Exploring new technologies and building projects to grow as a developer.
+
+---
+
+## 💻 Skills & Tools
+- **Programming:** C, C++, Python  
+- **Tools & Libraries:** Pandas, NumPy, Matplotlib  
+- **Concepts:** Data Analysis, Machine Learning, Problem Solving  
+
+---
+
+## 🌱 Interests
+- Data Science & Analytics  
+- Solving real-world problems   
+- Exploring and learning from data  
+
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: [HarshataGarg](https://www.linkedin.com/in/harshata-garg-095119370)
+- 🧠 Kaggle:   [HarshataGarg](https://www.kaggle.com/harshatagarg)
